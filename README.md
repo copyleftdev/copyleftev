@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=copyleftrdev)](https://github.com/copyleftdev/copyleftdev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=copyleftdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
